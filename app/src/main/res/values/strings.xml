@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">SuliSeged</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="done">Kész</string>
+
+    <string name="uj_sulis_feladat">Új sulis feladat</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="name">Tantárgy:</string>
+    <string name="description">Feladat pontosabb leírása:</string>
+    <string name="category">ZH/ HF/ Megnézendő aszinkron online előadás?</string>
+    <string name="deadline">Határidő:</string>
+    <string name="already_done">Esetleg már le is tudtad?</string>
+    <string name="típus">Feladattípus</string>
+    <string name="choose_zh">ZH</string>
+    <string name="choose_hf">HF</string>
+    <string name="choose_ea">ONLINE_EA</string>
+    <string name="rendezes">Rendezés alapja</string>
+    <string name="choose_felvevesideje">legutóbb felvett</string>
+    <string name="choose_hatarido">legközelebbi határidő</string>
+    <string name="choose_keszek">elkészült feladatok</string>
+    <string-array name="category_items">
+        <item>ZH</item>
+        <item>HF</item>
+        <item>Online EA</item>
+    </string-array>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="action_settings_m">Beállítások</string>
+</resources>
